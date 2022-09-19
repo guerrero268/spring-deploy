@@ -18,7 +18,7 @@ public class HelloController {
         return "Hola mundo hptas malparidos gonorreas!!!";
     }
 
-    @GetMapping("/bootstrap")
+    @GetMapping("/keff")
     public String bootstrap(){
         return """
                 <!doctype html>
